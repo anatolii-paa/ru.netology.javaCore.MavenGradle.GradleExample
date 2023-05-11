@@ -1,0 +1,5 @@
+rootProject.name = 'ru.netology.javaCore.MavenGradle.GradleExample'
+include 'api'
+include 'db'
+include 'servivce'
+
